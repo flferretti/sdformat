@@ -67,6 +67,7 @@
 #include "pySky.hh"
 #include "pySphere.hh"
 #include "pySurface.hh"
+#include "pyURDF2SDF.hh"
 #include "pyVisual.hh"
 #include "pyWorld.hh"
 
